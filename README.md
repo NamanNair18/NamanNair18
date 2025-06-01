@@ -1,5 +1,5 @@
 - 🔥 Hi, I’m @NamanNair18  
-- 👀 I’m interested in Web Development, UI/UX Design, Cybersecurity, and Startups  
+- 👀 I’m interested in Web Development, UI/UX Design, Data Analysis, and Keeping up with new Technologies 
 - 🌱 I’m currently learning Java, MySQL and flutter
 - 💞️ I’m looking to collaborate on hackathons, startup projects, and open-source contributions  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/namannair18) | Email: namannair18@gmail.com  
