@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on hackathons, startup projects, and open-source contributions  
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/naman-nair-/ | Email: namannair18@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy designing UIs in Figma just as much as writing clean code.
+- ⚡ Fun fact: I enjoy Visualizing and Analyzing Data.
