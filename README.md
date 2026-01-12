@@ -1,5 +1,5 @@
 - 🔥 Hi, I’m @NamanNair18  
-- 👀 I’m interested in Data Analysis, Web Development, UI/UX Design, and Keeping up with new Technologies 
+- 👀 I’m interested in Data Analysis, Data Visualization, Web Development, and Keeping up with new Technologies 
 - 🌱 I’m currently learning MySQL and Python
 - 💞️ I’m looking to collaborate on hackathons, startup projects, and open-source contributions  
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/naman-nair-/ | Email: namannair18@gmail.com  
